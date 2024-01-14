@@ -1,0 +1,24 @@
+C:\Users\-\Documents\Visual Studio 2010\Projects\ChatBotV3\ChatBotV3\bin\Debug\ChatBotV3.exe
+C:\Users\-\Documents\Visual Studio 2010\Projects\ChatBotV3\ChatBotV3\bin\Debug\ChatBotV3.pdb
+C:\Users\-\Documents\Visual Studio 2010\Projects\ChatBotV3\ChatBotV3\bin\Debug\ChatBotV3.xml
+C:\Users\-\Documents\Visual Studio 2010\Projects\ChatBotV3\ChatBotV3\obj\x86\Debug\ChatBotV3.Form1.resources
+C:\Users\-\Documents\Visual Studio 2010\Projects\ChatBotV3\ChatBotV3\obj\x86\Debug\ChatBotV3.Resources.resources
+C:\Users\-\Documents\Visual Studio 2010\Projects\ChatBotV3\ChatBotV3\obj\x86\Debug\ChatBotV3.vbproj.GenerateResource.Cache
+C:\Users\-\Documents\Visual Studio 2010\Projects\ChatBotV3\ChatBotV3\obj\x86\Debug\ChatBotV3.exe
+C:\Users\-\Documents\Visual Studio 2010\Projects\ChatBotV3\ChatBotV3\obj\x86\Debug\ChatBotV3.xml
+C:\Users\-\Documents\Visual Studio 2010\Projects\ChatBotV3\ChatBotV3\obj\x86\Debug\ChatBotV3.pdb
+C:\Users\-\Documents\Visual Studio 2010\Projects\ChatBotV3\ChatBotV3\bin\Debug\ChatBotV3.exe.config
+C:\Users\-\Desktop\ChatBotV3\ChatBotV3\bin\Debug\ChatBot.exe.config
+C:\Users\-\Desktop\ChatBotV3\ChatBotV3\bin\Debug\ChatBot.exe
+C:\Users\-\Desktop\ChatBotV3\ChatBotV3\bin\Debug\ChatBot.pdb
+C:\Users\-\Desktop\ChatBotV3\ChatBotV3\bin\Debug\ChatBot.xml
+C:\Users\-\Desktop\ChatBotV3\ChatBotV3\obj\x86\Debug\chatBot.Form1.resources
+C:\Users\-\Desktop\ChatBotV3\ChatBotV3\obj\x86\Debug\chatBot.Resources.resources
+C:\Users\-\Desktop\ChatBotV3\ChatBotV3\obj\x86\Debug\ChatBotV3.vbproj.GenerateResource.Cache
+C:\Users\-\Desktop\ChatBotV3\ChatBotV3\obj\x86\Debug\ChatBot.exe
+C:\Users\-\Desktop\ChatBotV3\ChatBotV3\obj\x86\Debug\ChatBot.xml
+C:\Users\-\Desktop\ChatBotV3\ChatBotV3\obj\x86\Debug\ChatBot.pdb
+C:\Users\-\Desktop\ChatBot\ChatBotV3\bin\Debug\ChatBot.exe.config
+C:\Users\-\Desktop\ChatBot\ChatBotV3\obj\x86\Debug\ChatBot.exe
+C:\Users\-\Desktop\ChatBot\ChatBotV3\obj\x86\Debug\ChatBot.xml
+C:\Users\-\Desktop\ChatBot\ChatBotV3\obj\x86\Debug\ChatBot.pdb
